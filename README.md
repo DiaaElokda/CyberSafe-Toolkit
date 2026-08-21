@@ -852,7 +852,7 @@ This project is licensed under the MIT License.
 
 See the LICENSE file for more information.
 
-<div align="center">
+<div align="left">
 🛡️ CyberSafe Toolkit v2.0.0
 
 Built for Cybersecurity Education & Authorized Security Testing
