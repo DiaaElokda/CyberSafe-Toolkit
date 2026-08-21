@@ -337,6 +337,6 @@ If you find this project useful, please:
 <div align="center">
 Made with ❤️ by CyberSafe Team
 
-© 2026 CyberSafe Toolkit v2.1 - All Rights Reserved
+© 2026 CyberSafe Toolkit v2.0 - All Rights Reserved
 
 </div>
