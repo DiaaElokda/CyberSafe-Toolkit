@@ -369,8 +369,11 @@ Always ensure you have:
 📞 Contact
 Channel	Details
 📧 Email	diaamaherelokda@gmail.com
+
 💬 GitHub	github.com/DiaaElokda
+
 🌐 Website	(https://diaaelokda.github.io/Portfolio/)
+
 ⭐ Support
 If you find this project useful, please:
 
@@ -385,6 +388,6 @@ If you find this project useful, please:
 <div align="center">
 Made with ❤️ by CyberSafe Team
 
-© 2025 CyberSafe Toolkit v2.1 - All Rights Reserved
+© 2026 CyberSafe Toolkit v2.1 - All Rights Reserved
 
 </div>
