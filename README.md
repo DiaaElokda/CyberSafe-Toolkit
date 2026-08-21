@@ -108,12 +108,7 @@ CyberSafe Toolkit is a **comprehensive cybersecurity desktop application** that 
 ## 📸 Screenshots
 
 ### Dashboard
-
-
-text
-
-### Sidebar Navigation
-
+![CyberSafe Toolkit](screenshots/dashboard.png)
 
 text
 
@@ -150,7 +145,9 @@ customtkinter	5.2.2	GUI framework
 cryptography	42.0.5	Encryption
 Pillow	10.2.0	Image processing
 reportlab	4.1.0	PDF generation
+
 💻 Usage
+
 Quick Start
 Launch the application
 
@@ -161,7 +158,9 @@ Follow on-screen instructions
 View results in real-time
 
 Common Operations
+
 Encrypt a File
+
 text
 1. Click "Symmetric Encryption"
 
