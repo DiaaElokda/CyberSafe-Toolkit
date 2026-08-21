@@ -108,42 +108,12 @@ CyberSafe Toolkit is a **comprehensive cybersecurity desktop application** that 
 ## 📸 Screenshots
 
 ### Dashboard
-┌─────────────────────────────────────────────────┐
-│ 📊 Total Operations 🚫 Quarantined 🌐 Ports│
-│ 25 3 5 │
-│ │
-│ ⚡ Quick Actions │
-│ [🔒 Encrypt] [📝 Password] [🌐 Scan] [📄 Report] │
-│ │
-│ 🔒 Security Tips │
-│ • Use strong passwords │
-│ • Enable 2FA │
-└─────────────────────────────────────────────────┘
+
 
 text
 
 ### Sidebar Navigation
-┌─────────────────┐
-│ [LOGO] CyberSafe │
-│ Toolkit │
-├─────────────────┤
-│ 📊 Dashboard │
-│ 🔐 Symmetric │
-│ 🔑 Asymmetric │
-│ 🔒 Hash │
-│ 📝 Password Gen │
-│ 💪 Strength │
-│ 🌐 Port Scanner │
-│ 🔍 Network │
-│ 🚫 Quarantine │
-│ 📄 Reports │
-│ 📊 History │
-├─────────────────┤
-│ 👨💻 Team │
-├─────────────────┤
-│ v2.1.0 │
-│ [Exit] │
-└─────────────────┘
+
 
 text
 
