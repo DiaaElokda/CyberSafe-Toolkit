@@ -8,7 +8,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.1.0-cyan.svg)](https://github.com/yourusername/cybersafe-toolkit/releases)
+[![Version](https://img.shields.io/badge/Version-2.0.0-cyan.svg)](https://github.com/yourusername/cybersafe-toolkit/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-orange.svg)]()
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/cybersafe-toolkit?style=social)]()
 
