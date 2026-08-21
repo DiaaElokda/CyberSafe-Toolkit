@@ -199,49 +199,6 @@ text
 
 4. Copy to clipboard
 
-📁 Project Structure
-
-text
-cybersafe-toolkit/
-│
-├── main.py                  # Entry point
-├── requirements.txt         # Dependencies
-├── README.md                # Documentation
-├── LICENSE                  # License file
-│
-├── core/
-│   ├── __init__.py
-│   ├── app.py               # Main application class
-│   ├── config.py            # Configuration management
-│   ├── database.py          # Database (Singleton)
-│   ├── encryption.py        # Encryption algorithms
-│   └── logger.py            # Logging system
-│
-├── ui/
-│   ├── __init__.py
-│   ├── sidebar.py           # Navigation sidebar
-│   ├── dashboard.py         # Dashboard page
-│   ├── components.py        # Reusable components
-│   └── windows.py           # Message windows
-│
-├── utils/
-│   ├── __init__.py
-│   ├── helpers.py           # Helper functions
-│   ├── validators.py        # Input validation
-│   └── security.py          # Security utilities
-│
-├── config/
-│   └── settings.json        # App settings
-│
-├── assets/
-│   ├── logo.png             # Application logo
-│   └── icon.ico             # Application icon
-│
-└── data/                    # Runtime data (auto-created)
-    ├── database/
-    ├── quarantine/
-    ├── reports/
-    └── logs/
 🛠️ Technologies
 
 Core Stack
