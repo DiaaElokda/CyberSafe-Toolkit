@@ -160,7 +160,6 @@ Common Operations
 
 Encrypt a File
 
-text
 1. Click "Symmetric Encryption"
 
 2. Select encryption method (AES-GCM/Fernet)
@@ -173,8 +172,6 @@ text
 
 Scan Network
 
-text
-
 1. Click "Port Scanner"
 
 2. Enter target IP
@@ -186,8 +183,6 @@ text
 5. View results
 
 Generate Password
-
-text
 
 1. Click "Password Generator"
 
@@ -292,7 +287,6 @@ Write meaningful commit messages
 📄 License
 This project is for educational purposes only.
 
-text
 EDUCATIONAL USE LICENSE
 
 Permission is granted to use this software for educational purposes.
