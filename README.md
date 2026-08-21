@@ -247,6 +247,7 @@ Passwords
 Initialization vectors
 
 Best Practices
+
 ✅ No plaintext key storage
 
 ✅ Authenticated encryption
