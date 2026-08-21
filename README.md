@@ -110,7 +110,6 @@ CyberSafe Toolkit is a **comprehensive cybersecurity desktop application** that 
 ### Dashboard
 ![CyberSafe Toolkit](screenshots/dashboard.png)
 
-text
 
 ---
 
@@ -224,19 +223,6 @@ Observer	UI updates
 
 Factory	Encryption creation
 
-Architecture
-
-text
-┌─────────────────────────────────────┐
-│         Presentation Layer          │
-│    (CustomTkinter GUI)              │
-├─────────────────────────────────────┤
-│         Business Logic Layer        │
-│    (Core Modules)                   │
-├─────────────────────────────────────┤
-│         Data Access Layer           │
-│    (SQLite Database)                │
-└─────────────────────────────────────┘
 🔒 Security Features
 
 Cryptographic Standards
