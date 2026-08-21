@@ -153,7 +153,7 @@ text
 
 ### Prerequisites
 
-```bash
+bash
 # Check Python version (3.8+)
 python --version
 
@@ -308,12 +308,6 @@ Best Practices
 
 ✅ Secure file operations
 
-👥 Team
-Name	Role	Skills
-Your Name	Lead Developer	Python, Cryptography
-Team Member 1	Security Analyst	Pentesting, Auditing
-Team Member 2	UI/UX Designer	Design, Research
-Team Member 3	Malware Analyst	Reverse Engineering
 🤝 Contributing
 How to Contribute
 Fork the repository
@@ -374,9 +368,9 @@ Always ensure you have:
 
 📞 Contact
 Channel	Details
-📧 Email	your.email@example.com
-💬 GitHub	github.com/yourusername
-🌐 Website	www.yourwebsite.com
+📧 Email	diaamaherelokda@gmail.com
+💬 GitHub	github.com/DiaaElokda
+🌐 Website	(https://diaaelokda.github.io/Portfolio/)
 ⭐ Support
 If you find this project useful, please:
 
@@ -391,6 +385,6 @@ If you find this project useful, please:
 <div align="center">
 Made with ❤️ by CyberSafe Team
 
-© 2024 CyberSafe Toolkit v2.1 - All Rights Reserved
+© 2025 CyberSafe Toolkit v2.1 - All Rights Reserved
 
-</div> ```
+</div>
