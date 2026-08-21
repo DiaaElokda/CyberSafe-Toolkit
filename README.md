@@ -194,24 +194,43 @@ Common Operations
 Encrypt a File
 text
 1. Click "Symmetric Encryption"
+
 2. Select encryption method (AES-GCM/Fernet)
+
 3. Generate or enter key
+
 4. Select file
+
 5. Click "Encrypt File"
+
 Scan Network
+
 text
+
 1. Click "Port Scanner"
+
 2. Enter target IP
+
 3. Set port range
+
 4. Click "Start Scan"
+
 5. View results
+
 Generate Password
+
 text
+
 1. Click "Password Generator"
+
 2. Set length and options
+
 3. Click "Generate Password"
+
 4. Copy to clipboard
+
 📁 Project Structure
+
 text
 cybersafe-toolkit/
 │
@@ -254,19 +273,33 @@ cybersafe-toolkit/
     ├── reports/
     └── logs/
 🛠️ Technologies
+
 Core Stack
+
 Technology	Version	Usage
+
 Python	3.8+	Primary language
+
 CustomTkinter	5.2.2	Modern GUI
+
 SQLite	Built-in	Database
+
 Cryptography	42.0.5	Security
+
 Design Patterns
+
 Pattern	Implementation
+
 Singleton	Database, Logger
+
 Modular	Separate files per feature
+
 Observer	UI updates
+
 Factory	Encryption creation
+
 Architecture
+
 text
 ┌─────────────────────────────────────┐
 │         Presentation Layer          │
@@ -279,14 +312,23 @@ text
 │    (SQLite Database)                │
 └─────────────────────────────────────┘
 🔒 Security Features
+
 Cryptographic Standards
+
 Feature	Algorithm	Key Size
+
 Symmetric Encryption	AES-256-GCM	256 bits
+
 Simple Encryption	Fernet	128+128 bits
+
 Asymmetric	RSA-2048	2048 bits
+
 Hashing	SHA-256/512	256/512 bits
+
 Padding	OAEP-SHA256	-
+
 Secure Random Generation
+
 All random values use secrets module:
 
 Encryption keys
@@ -345,6 +387,7 @@ Permission is granted to use this software for educational purposes.
 Commercial use is prohibited without explicit permission.
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
 ⚠️ Disclaimer
 IMPORTANT: This software is intended for educational and authorized testing purposes only.
 
